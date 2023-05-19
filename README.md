@@ -1,1 +1,1 @@
-# Computer-vision-Project/Vehicle-and-Pedestrian-Detection-
+# Vehicle-and-Pedestrian-Detection-
